@@ -1,4 +1,4 @@
-# Android Project 3 - *movieapp*
+# Android Project 3 - *MovieApp*
 
 Submitted by: **Prana Mohanty**
 
